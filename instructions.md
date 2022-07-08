@@ -1,1 +1,4 @@
-Care Instructions
+---
+layout: default
+title: Instructions
+---
