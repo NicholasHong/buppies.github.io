@@ -1,3 +1,3 @@
 # buppies.github.io
 
-Edit the /docs/index.yml n go
+docs/index.md is the main page
