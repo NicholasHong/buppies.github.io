@@ -1,3 +1,8 @@
+---
+layout: default
+title: Access
+---
+
 ## Accessing the apartment
 
 The address to our apartment is 221 S. Millvale Ave
