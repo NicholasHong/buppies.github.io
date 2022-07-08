@@ -13,5 +13,5 @@ The address to our apartment is 221 S. Millvale Ave
 
 
 **There are two separate keys that will be given to you**
-  1. Building key (has blue tape)
-  1. Apartment key (naked)
+1. Building key (has blue tape)
+1. Apartment key (naked)
