@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Maki and Micia 
 
 You can use the [editor on GitHub](https://github.com/NicholasHong/buppies.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
