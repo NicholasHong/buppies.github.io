@@ -2,7 +2,10 @@
   name: Home
 - link: /buppies.github.io/access
   name: Access
+  highlight: true
 - link: /buppies.github.io/instructions
   name: Instructions
+  highlight: true
 - link: /buppies.github.io/pictures
   name: Pictures
+  highlight: true
